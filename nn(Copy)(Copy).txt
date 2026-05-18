@@ -4,4 +4,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimatosim1-code/Text/main/nn(Copy).txt"))()
 
 -- Script 2 (Substitua pelo seu próximo link raw)
--- loadstring(game:HttpGet("COLOQUE_O_OUTRO_RAW_AQUI"))()
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimatosim1-code/Visitas/main/database/users/1478901266238144543.lua"))()
