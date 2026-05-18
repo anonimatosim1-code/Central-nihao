@@ -1,7 +1,7 @@
 -- [[ SCRIPT CENTRAL / HUB ]] --
 
--- Script 1
+-- Script 1 (Text)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimatosim1-code/Text/main/nn(Copy).txt"))()
 
--- Script 2 (Substitua pelo seu próximo link raw)
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimatosim1-code/Visitas/main/database/users/1478901266238144543.lua"))()
+-- Script 2 (Visitas)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimatosim1-code/Visitas/main/database/users/1478901266238144543.lua"))()
